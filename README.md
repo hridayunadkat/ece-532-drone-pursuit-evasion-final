@@ -16,7 +16,7 @@ cbf_sim_json.py
 
 are to complete 15 trials for both filters.
 
-## JSON Code
+## JSON Results
 switching_results_final.json
 cbf_results_final.json 
 
