@@ -25,6 +25,7 @@ are some of the JSON results that motivated results and analysis
 
 ## Hardware Code
 The following code files are for hardware implementation:
+
 RealWorld_SF_noYOLO.ipynb - this is knowledge based for SF
 
 RealWorld_SF_YOLO.ipynb - this is perception based for SF
