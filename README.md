@@ -9,3 +9,9 @@ Test A2 in Table 1: black swan version of SF
 Test A3 in Table 1: cbf_filter_sim_file.ipynb
 
 Test A4 in Table 1: black swan version of CBF
+
+## JSON
+sf_sim_json.py
+cbf_sim_json.py
+
+are to complete 15 trials for both filters.
