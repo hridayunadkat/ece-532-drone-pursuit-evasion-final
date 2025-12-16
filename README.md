@@ -13,12 +13,16 @@ Test A4 in Table 1: black swan version of CBF
 ## JSON Code
 sf_sim_json.py
 cbf_sim_json.py
+black_swan_switching_json.py
+blackswan_cbf_json.py
 
-are to complete 15 trials for both filters.
+are to complete 15 trials for both filters, with and without black swan events.
 
 ## JSON Results
 switching_results_final.json
 cbf_results_final.json 
+black_swan_switching_FINAL.json
+black_swan_cbf_FINAL.json
 
 are some of the JSON results that motivated results and analysis
 
