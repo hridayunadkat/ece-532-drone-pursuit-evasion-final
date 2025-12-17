@@ -278,7 +278,7 @@ def run_black_swan_cbf_trial(
 def run_trials(num_trials: int = 15):
     results = []
     for i in range(num_trials):
-        res = run_black_swan_cbf_trial(seed=i)
+        res = run_black_swan_cbf_trial(seed=5*i)
         results.append(res)
         print(
             f"Trial {i}: goals={res['goals_reached']} "
